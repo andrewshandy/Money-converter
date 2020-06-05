@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Money converter</string>
+    <string name="rub">RUB</string>
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="gbp">GBP</string>
+    <string name="uah">UAH</string>
+    <string name="byn">BYN</string>
+</resources>
